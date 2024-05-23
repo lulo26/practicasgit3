@@ -1,7 +1,10 @@
 .body {
   background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
 }
 
 h3 {
   color: brown;
+  size: 40px;
 }
