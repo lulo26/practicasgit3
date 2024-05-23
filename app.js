@@ -7,4 +7,5 @@ function ThisThing() {
   if (onion == tomato) {
     console.log("what");
   }
+  return tomato;
 }
