@@ -7,10 +7,15 @@
 h3 {
   color: brown;
   size: 40px;
+  background-color: bisque;
 }
 
 p {
   background-color: black;
   color: antiquewhite;
   size: 20px;
+}
+
+h2 {
+  color: rebeccapurple;
 }
